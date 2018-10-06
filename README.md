@@ -6,7 +6,7 @@
 说明：根据“千千”的“墨攻棋阵”做了一些修改,这些修改包括：强化了AI（欢迎挑战 困难难度）、加入了悔棋、保存、背景音乐等功能。感谢可爱的千千
 (https://github.com/im0qianqian/Reversi)  
 
-运行 Ultimate Reversi.exe 快速开始游戏。
+运行 Ultimate Reversi.exe 快速开始游戏。  
 music文件夹里面的是游戏中的背景音乐，picture文件夹里面的是游戏中的背景图片。  
 用VS打开 Ultimate Reversi.sln 即可看到项目的解决方案，核心代码位在 Ultimate Reversi/source.cpp
 
