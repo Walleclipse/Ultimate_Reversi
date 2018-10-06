@@ -1,0 +1,9 @@
+﻿  source.cpp
+c:\users\abduw\pycharmprojects\machinelearning\github_temp\ultimate reversi\ultimate reversi\source.cpp(246): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\abduw\pycharmprojects\machinelearning\github_temp\ultimate reversi\ultimate reversi\source.cpp(247): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\abduw\pycharmprojects\machinelearning\github_temp\ultimate reversi\ultimate reversi\source.cpp(248): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\abduw\pycharmprojects\machinelearning\github_temp\ultimate reversi\ultimate reversi\source.cpp(249): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\abduw\pycharmprojects\machinelearning\github_temp\ultimate reversi\ultimate reversi\source.cpp(252): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\abduw\pycharmprojects\machinelearning\github_temp\ultimate reversi\ultimate reversi\source.cpp(253): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Ultimate Reversi.vcxproj -> C:\Users\abduw\PycharmProjects\MachineLearning\github_temp\Ultimate Reversi\Debug\Ultimate Reversi.exe
+  Ultimate Reversi.vcxproj -> C:\Users\abduw\PycharmProjects\MachineLearning\github_temp\Ultimate Reversi\Debug\Ultimate Reversi.pdb (Partial PDB)
